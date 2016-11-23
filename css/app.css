@@ -1,0 +1,14 @@
+body{
+    -webkit-background-image: url("../images/bg_1.png");
+    -moz-background-image: url("../images/bg_1.png");
+    -o-background-image: url("../images/bg_1.png");
+    background-image: url("../images/bg_1.png");
+background-repeat: repeat;
+}
+h1 {
+    font-size: 6em; /* 40px/16=2.5em */
+    color: darkslateblue;
+}
+h3{
+    font-size: 3em;
+}
