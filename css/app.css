@@ -5,10 +5,37 @@ body{
     background-image: url("../images/bg_1.png");
 background-repeat: repeat;
 }
-h1 {
-    font-size: 6em; /* 40px/16=2.5em */
+.intro_main{
     color: darkslateblue;
 }
 h3{
-    font-size: 3em;
+
 }
+
+.button_youtube{
+}
+
+.button_youtube:hover{
+}
+
+.button_youtube {
+    background: url("../images/YouTube-social-icon_dark_128px.png");
+	border:0px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:0px 0px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+}
+.button_youtube:hover {
+    background: url("../images/YouTube-social-icon_red_128px.png");
+}
+.button_youtube:active {
+	position:relative;
+	top:1px;
+}
+
+
